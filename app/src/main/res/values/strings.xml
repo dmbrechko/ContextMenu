@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ContextMenu</string>
+    <string name="generate_random_number">Generate random number</string>
+    <string name="color_quality">Color quality</string>
+    <string name="exit_app">Exit app</string>
+    <string name="enter_number_between_1_and_5">Enter number between 1 and 5</string>
+    <string name="generate_number_first">Generate number first</string>
+</resources>
